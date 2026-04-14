@@ -12,7 +12,7 @@ This project demonstrates a multi-view web application built with Laravel, featu
 ## Activity Details
 - **Subject**: Application Web Design
 - **Activity**: Menus and Multi-view Navigation
-- **Creator**: [User Name / Information]
+- **Creator**: Fabiáan Quintero 
 
 ## Technologies
 - Laravel (PHP)
